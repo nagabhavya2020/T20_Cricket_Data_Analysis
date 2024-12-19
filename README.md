@@ -7,6 +7,6 @@ This project analyzes T20 cricket player performance using Power BI, Python, and
 - Metrics: Strike rates, averages, roles, and more.
 
 ## Files
-- `T20-Cricket-Analysis.pbix`: Power BI report file.
-- `data_preparation.py`: Python script for data cleaning.
+- `t20-cric-analysis.pbix`: Power BI report file.
+- `DataProcessing.py`: Python script for data cleaning.
 - `raw_data.csv`: Sample dataset.
